@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+    public class SumOfNumbers1 *From Praveen* 
+    {  
+    public static void main(String args[])  *From Praveen* 
+    {  
+    int n1 = 225, n2 = 115, sum; *from Praveen* 
+    sum = n1 + n2;  
+=======
+    public class SumOfNumbers1  *From Sandeep* 
+    {  
+    public static void main(String args[])  *from Sandeep* 
+    {  
+    int n1 = 225, n2 = 115, sum;  
+    sum = n1 + n2; *from Sandeep* 
+>>>>>>> d3c5fa209193494c5c5696e3566512c32fb91234
+    System.out.println("The sum of numbers is: "+sum);  
+    }  
+    }  
