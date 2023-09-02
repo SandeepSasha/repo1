@@ -1,3 +1,4 @@
+<<<<<<< HEAD
     public class SumOfNumbers1  
     {  
     public static void main(String args[])   
@@ -5,5 +6,15 @@
     int n1 = 225, n2 = 115, sum;  
     sum = n1 + n2;  
     System.out.println("The sum of numbers is: "+sum);  
+=======
+
+    public class SumOfNumbers1 *From Praveen* 
+    {  
+    public static void main(String args[])  *From Praveen* 
+    {  
+    int n1 = 225, n2 = 115, sum; *from Praveen* 
+    sum = n1 + n2;   
+       System.out.println("The sum of numbers is: "+sum);  
+>>>>>>> b9a6194f34d932d2b9d011556fd2ddf3f867a25d
     }  
     }  
